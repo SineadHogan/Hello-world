@@ -1,0 +1,56 @@
+---
+title: "Quarto in class"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  Install.packages("ggplot2")
+---
+
+I want to *kill* myself
+
+Philip is **no longer** talking to us
+
+P Tierney is a ***loser***
+
+## Ick List
+
+Baths
+
+Hit by car
+
+Gambling
+
+When he has no respect for women
+
+-   ***When they think they can back out of Saturday***
+
+When they start showing you their instagram memories
+
+When they drink a Vit hit everyday
+
+When they dont get their vitamins :(
+
+Anyone got a rope?
+
+``` {'''{r}
+#| label: setup
+#| inlcude: false
+
+Libary(tidyverse)
+
+UnicefData <- read.xlsx("/cloud/project/UnicefData.xlsx)
+
+'''
+```
+
+------------------------------------------------------------------------
+
+```         
+```
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
